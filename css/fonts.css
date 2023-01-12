@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "rubik";
+    src: url(../fonts/rubik/Rubik-Medium.ttf);
+    font-weight: 500 ;
+}
+
+@font-face {
+    font-family: "rubikitalic ";
+    src: url(../fonts/rubik/Rubik-MediumItalic.ttf);
+    font-weight: 600;
+}
+
+
+
+
+/* mulish */
+
+@font-face {
+    font-family: "mulish";
+    src: url(../fonts/mulish/Mulish-Regular.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "mulishmedium";
+    src: url(../fonts/mulish/Mulish-Medium.ttf);
+    font-weight: 400;
+}
